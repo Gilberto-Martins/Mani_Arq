@@ -1,4 +1,5 @@
 ﻿using System;
+using Mani_Arq.Helper;
 
 namespace Mani_Arq
 {
@@ -6,7 +7,15 @@ namespace Mani_Arq
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var caminho = "C:\\TrabalhandoComArquivos";
+
+            FileHelper  rep = new FileHelper();
+
+            //lista diretorios
+            //rep.ListaDiretorios(caminho);
+
+            //lista arquivos
+            rep.ListaArquivosDiretorios(caminho);
         }
     }
 }
