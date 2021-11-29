@@ -1,0 +1,16 @@
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\bin\Debug\net5.0\Mani_Arq.exe
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\bin\Debug\net5.0\Mani_Arq.deps.json
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\bin\Debug\net5.0\Mani_Arq.runtimeconfig.json
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\bin\Debug\net5.0\Mani_Arq.runtimeconfig.dev.json
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\bin\Debug\net5.0\Mani_Arq.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\bin\Debug\net5.0\ref\Mani_Arq.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\bin\Debug\net5.0\Mani_Arq.pdb
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\obj\Debug\net5.0\Mani_Arq.csproj.AssemblyReference.cache
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\obj\Debug\net5.0\Mani_Arq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\obj\Debug\net5.0\Mani_Arq.AssemblyInfoInputs.cache
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\obj\Debug\net5.0\Mani_Arq.AssemblyInfo.cs
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\obj\Debug\net5.0\Mani_Arq.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\obj\Debug\net5.0\Mani_Arq.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\obj\Debug\net5.0\ref\Mani_Arq.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\obj\Debug\net5.0\Mani_Arq.pdb
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\ManipulandoArquivos\Mani_Arq\Mani_Arq\obj\Debug\net5.0\Mani_Arq.genruntimeconfig.cache
