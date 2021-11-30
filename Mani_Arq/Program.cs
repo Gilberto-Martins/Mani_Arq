@@ -1,5 +1,7 @@
 ﻿using System;
 using Mani_Arq.Helper;
+using System.IO;
+using System.Collections.Generic;
 
 namespace Mani_Arq
 {
@@ -8,6 +10,10 @@ namespace Mani_Arq
         static void Main(string[] args)
         {
             var caminho = "C:\\TrabalhandoComArquivos";
+            var caminhoPathCombine = Path.Combine(caminho, "Pasta 1");
+            var caminhoFile = Path.Combine(caminho, "Arquivo-test-stream.txt");
+            var listaString = new List<string> {"linha 1","linha 2","linha 3","linha 4","linha 5"};
+            var listaString2 = new List<string> {"linha 6","linha 7","linha 8","linha 9", "linha 10"};
 
             FileHelper  rep = new FileHelper();
 
@@ -15,7 +21,18 @@ namespace Mani_Arq
             //rep.ListaDiretorios(caminho);
 
             //lista arquivos
-            rep.ListaArquivosDiretorios(caminho);
+            //rep.ListaArquivosDiretorios(caminho);
+
+            //Console.WriteLine("Criando diretorio: "+ caminhoPathCombine);
+            //rep.CriarDirtorio(caminhoPathCombine);
+
+            // apagra diretorio
+            //rep.ApagarDiretorio(caminhoPathCombine, true);
+
+            // cirar arquivos testo class Fie
+            //rep.CriarArquivoTxt(caminhoFile, "Capuvara Boy");
+            rep.CreaArquivoStram(caminhoFile, listaString);
+            rep.AdirionarTextoStream(caminhoFile, listaString2);
         }
     }
 }
