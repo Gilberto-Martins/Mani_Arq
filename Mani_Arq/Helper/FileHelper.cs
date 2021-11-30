@@ -79,5 +79,47 @@ namespace Mani_Arq.Helper
                 }
             }
         }
+
+        //Lendo aquivos
+
+        public void LerArquivo (string caminho)
+        {
+            var ler = File.ReadAllLines(caminho);
+
+            foreach (var linha in ler)
+            {
+                Console.WriteLine(linha);
+            }
+        }
+
+        //mais recomendado fazer a leitura pelo metodo stream
+        public void LerArquivoStream (string caminho)
+        {
+            string linha = string.Empty;
+
+            using (var stream = File.OpenText(caminho))
+            {
+                while ((linha = stream.ReadLine()) != null)
+                {
+                     Console.WriteLine(linha);
+                }
+            }
+        }
+
+        //mover compiar e apagar o nome de um arquivo
+        public void MoverArquivo (string caminho, string novocaminho, bool sobrescrever)
+        {
+            File.Move(caminho, novocaminho, sobrescrever);
+        }
+
+        public void CopiarArquivo (string caminho, string novocaminho, bool sobrescrever)
+        {
+            File.Copy(caminho, novocaminho, sobrescrever);
+        }
+
+        public void DeletarFile (string caminho)
+        {
+            File.Delete(caminho);
+        }
     }
 }
